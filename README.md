@@ -3,6 +3,6 @@ Hi, Welcome to My Profile!
 
 I'm a C# and FrontEnd Developer💻
 
-and a editor🎬
+a editor and a designer🎬
 
 and a singer🎤
