@@ -1,7 +1,7 @@
 # Alber
 Hi, Welcome to My Profile!
 
-I'm a begginer Developer💻
+I'm a C# and FrontEnd Developer💻
 
 and a editor🎬
 
